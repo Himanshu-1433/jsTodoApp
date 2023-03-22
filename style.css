@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.userTask {
+    font-size: 2rem;
+    color: white;
+}
